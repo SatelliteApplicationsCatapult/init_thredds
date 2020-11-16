@@ -1083,6 +1083,12 @@
     <serviceName>all</serviceName>
   </metadata>
 
+  <datasetScan name="GPCP" ID="gpcpData"
+    path="gpcp" location="/usr/local/gpcp/">
+  <metadata inherited="true">
+    <serviceName>all</serviceName>
+  </metadata>
+
 </datasetScan>
 
 
