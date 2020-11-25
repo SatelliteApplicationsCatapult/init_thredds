@@ -1043,7 +1043,7 @@
            serviceName="all" urlPath="ERA5-Land_30year/ERA5-Land_30year_TotalPrecip.nc" dataType="Grid"/>
 
   <datasetScan name="TRMM" ID="trmmData"
-    path="trmm" location="/usr/local/trmm/">
+    path="TRMM" location="/usr/local/trmm/">
     <metadata inherited="true">
       <serviceName>all</serviceName>
     </metadata>
